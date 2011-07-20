@@ -1,0 +1,14 @@
+{
+  "javascripts": [
+    "javascripts/app.js"
+  ],
+  
+  "images": [
+    "images/house.jpg"
+  ],
+
+  "lib": [ 
+    ["jquery", "1.5.2"],
+    ["hasher", "0.0.3"]
+  ]
+}

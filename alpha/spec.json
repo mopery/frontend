@@ -1,0 +1,19 @@
+{
+  name: 'crowdcode',
+  version: '
+  dependencies: [
+    { name: 'prototype', version: '1.7.0.rc2' },
+    { name: 'codemirror', version: '0.91' },
+    { name: 'jam', version: '0.0.1' },
+  ]
+}
+
+[
+  '/public/crowdcode/loader.js',
+  '/public/prototype-1.7.0.rc2.js', 
+  '/public/codemirror-0.91/codemirror.js',
+  '/public/jam-0.0.1.js',
+  '/public/crowdcode/xd/client.js',
+  '/public/crowdcode/application.js',
+  '/public/crowdcode/application.css'
+];
